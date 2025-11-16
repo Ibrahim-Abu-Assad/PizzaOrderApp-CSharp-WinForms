@@ -64,3 +64,13 @@ git clone https://github.com/Ibrahim-Abu-Assad/PizzaOrderApp-CSharp-WinForms.git
 📧 i6802275@gmail.com
 
 ---
+
+## 🎓 Acknowledgments
+
+This project was developed as part of my learning journey in **C# and WinForms**.  
+
+Grateful for the tutorials and guidance of **Dr. Mohammed Abu-Hadhoud**
+available through the **Programming Advices** platform and **YouTube channel**,
+which provided the resources and examples that made this project possible.
+
+---
