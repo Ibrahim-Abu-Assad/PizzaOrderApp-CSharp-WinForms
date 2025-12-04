@@ -30,7 +30,7 @@ It allows users to select pizza size, crust type, and multiple toppings, calcula
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Ibrahim-Abu-Assad/PizzaOrderApp-CSharp-WinForms.git
+git clone https://github.com/Ibrahim-Abu-Assad/Pizza-Order-App.git
 ```
 2. Open the solution file PizzaAgain[Course14].sln in Visual Studio.
 3. Build the project (press F6 or Build Solution).
