@@ -1,6 +1,6 @@
-# 🍕 Pizza Order System (C# WinForms)  
+# 🍕 Pizza Order System 
 
-![C#](https://img.shields.io/badge/Language-C%23-blue) ![.NET Framework](https://img.shields.io/badge/Framework-.NET%20Framework-blue)
+![C#](https://img.shields.io/badge/Language-C%23-blue) ![.NET Framework](https://img.shields.io/badge/Framework-.NET%20Framework-blue) ![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-blue)
 
 This is a simple **Pizza Ordering application** built with **C# WinForms**.  
 It allows users to select pizza size, crust type, and multiple toppings, calculates the total price, and lets the user confirm the order.
